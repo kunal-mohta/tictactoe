@@ -1,0 +1,17 @@
+body, html {
+  overflow: hidden; }
+
+table {
+  border: #000000 2px solid; }
+
+td {
+  border: #000000 2px solid;
+  height: 33.33333vw;
+  width: 33.33333vw; }
+
+@media all and (orientation: landscape) {
+  td {
+    height: 33.33333vh;
+    width: 33.33333vh; } }
+
+/*# sourceMappingURL=style.css.map */
